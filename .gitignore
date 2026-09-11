@@ -2,6 +2,7 @@
 bin/
 obj/
 *.pdb
+*.exe
 
 # Visual Studio / VS Code / IDE
 .vs/
