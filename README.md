@@ -1,5 +1,24 @@
 # Attack Shark R5 Ultra - Battery Tray Monitor
 
+# Attack Shark R5 Ultra - Battery Tray Monitor
+
+A lightweight standalone Windows utility that displays the battery level of your **Attack Shark R5 Ultra** mouse directly in the system tray (taskbar notification area).
+
+## Features
+- **Single `.exe` binary**: Only ~17 KB with zero external runtimes or dependencies.
+- **Real-time Tray Icon**: Always visible battery percentage with color coding (Green / Yellow / Red).
+- **Charging Indicator**: Shows a lightning icon ⚡ and "Charging" status when plugged in via cable.
+- **Resource Friendly**: Low polling frequency with negligible CPU and RAM footprint.
+- **Dual Mode Support**: Works both via 2.4GHz wireless dongle and USB cable.
+- **Auto-start**: Toggle "Run on Windows Startup" in one click from the tray context menu.
+
+## Quick Start
+1. Download `R5BatteryChecker.exe` from the [Releases](../../releases) tab.
+2. Run the executable.
+3. Check your system tray near the clock for the battery icon.
+4. Right-click the icon to manage auto-start or refresh status manually.
+
+
 Легковесная автономная утилита для Windows, которая отображает уровень заряда аккумулятора мыши **Attack Shark R5 Ultra** в системном трее (рядом с часами).
 
 ## Возможности
