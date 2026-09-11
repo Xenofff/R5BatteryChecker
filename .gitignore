@@ -1,0 +1,19 @@
+# Build results and debug symbols
+bin/
+obj/
+*.pdb
+
+# Visual Studio / VS Code / IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary and log files
+*.log
+*.tmp
+TestRender.*
+TestCS.*
