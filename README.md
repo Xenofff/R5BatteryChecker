@@ -1,7 +1,5 @@
 # Attack Shark R5 Ultra - Battery Tray Monitor
 
-# Attack Shark R5 Ultra - Battery Tray Monitor
-
 A lightweight standalone Windows utility that displays the battery level of your **Attack Shark R5 Ultra** mouse directly in the system tray (taskbar notification area).
 
 ## Features
